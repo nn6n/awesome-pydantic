@@ -6,3 +6,4 @@ PyGithub==1.55
 
 # Lint
 ruff
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
